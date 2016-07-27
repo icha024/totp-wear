@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuthCode-Wear</string>
+    <string name="your_code">Your code:</string>
+    <string name="save_seed">Initialisation Seed:</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_reset">Reset</string>
+</resources>
